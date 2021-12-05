@@ -26,6 +26,8 @@
     --danger: #dc3545;
     --light: #f8f9fa;
     --dark: #343a40;
+    --crimson: #d7263d;
+    --tuftsBlue: #0197f6;
     --breakpoint-xs: 0;
     --breakpoint-sm: 576px;
     --breakpoint-md: 768px;
@@ -5300,7 +5302,8 @@ input[type=submit].btn-block {
 .card-header {
     padding: .75rem 1.25rem;
     margin-bottom: 0;
-    background-color: rgba(0, 0, 0, .03);
+    background-color: #0197f6;
+    /*rgba(0, 0, 0, .03);*/
     border-bottom: 1px solid rgba(0, 0, 0, .125)
 }
 
@@ -7401,7 +7404,7 @@ button.bg-light:hover {
 }
 
 .bg-dark {
-    background-color: #343a40 !important
+    background-color: #0197f6 !important
 }
 
 a.bg-dark:focus,
