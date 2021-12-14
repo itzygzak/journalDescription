@@ -72,7 +72,11 @@ body {
     line-height: 1.5;
     color: #212529;
     text-align: left;
+<<<<<<< HEAD
     background-color: #Ffffbf;
+=======
+    background-color: #E0DFE3;
+>>>>>>> d48906f41418e05f61a32019603ecf83feb98a57
 }
 
 .carousel-item {
@@ -9024,7 +9028,7 @@ button.bg-dark:hover {
 
 .mb-3,
 .my-3 {
-    margin-bottom: 1rem !important
+    margin-bottom: 1.5rem !important
 }
 
 .ml-3,
