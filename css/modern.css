@@ -2898,8 +2898,9 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff
+    background-color: #399;
+    /*#007bff;*/
+    border-color: #399
 }
 
 .btn-primary:hover {
@@ -5310,7 +5311,8 @@ input[type=submit].btn-block {
 .card-header {
     padding: .75rem 1.25rem;
     margin-bottom: 0;
-    background-color: #0197f6;
+    background-color: #399;
+    /*#0197f6;*/
     /*rgba(0, 0, 0, .03);*/
     border-bottom: 1px solid rgba(0, 0, 0, .125)
 }
@@ -7412,7 +7414,8 @@ button.bg-light:hover {
 }
 
 .bg-dark {
-    background-color: #0197f6 !important
+    background-color: #339999 !important
+    /* #0197f6 !important*/
 }
 
 a.bg-dark:focus,
